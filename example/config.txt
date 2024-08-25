@@ -1,0 +1,2 @@
+Prefix plugins/Eliza/example/
+Plugin Eliza inputfile responses.txt outputfile none
